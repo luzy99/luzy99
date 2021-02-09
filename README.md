@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=luzy99&show_icons=true">
+
+🖥 [My Blog](https://blog.luzy.top/)
+
+⭐️ From [LZY](https://github.com/luzy99)
